@@ -1,6 +1,6 @@
 <template>
   <div id="Home">
-    <p class=" h-screen bg-black p-4 text-3xl text-white flex justify-center ">Hello , Welcome</p>
+    <p class=" h-screen bg-white p-4 text-8xl text-black flex items-center p-11">SHAHEEM <br> SALIE</p>
   </div>
 </template>
 

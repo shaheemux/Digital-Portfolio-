@@ -1,7 +1,7 @@
 
 <template>
     <div id="navbar">  
-     <nav class="navbar bg-white border-gray-200 dark:bg-gray-900 fixed w-full z-50 top-0 start-0 z-50">
+     <nav class="navbar bg-white border-gray-200 dark:bg-gray-900 fixed w-full z-50 top-0 start-0">
       <div class="page">
        <header tabindex="0"></header>
         <div id="nav-container">
@@ -15,10 +15,10 @@
          <ul>
            <li><a href="#Home">Home</a></li>
            <li><a href="#About">About</a></li>
-           <li><a href="#">Education & Experience</a></li>
+           <li><a href="#Reviews">Education & Experience</a></li>
            <li><a href="#">Projects</a></li>
-           <li><a href="">Reviews</a></li>
-           <li><a href="">Contact</a></li>
+           <li><a href="#">Reviews</a></li>
+           <li><a href="#">Contact</a></li>
            <li class="small"><a href="https://www.instagram.com/shaaheem_salie/">INSTAGRAM</a><a href="https://www.facebook.com/shaheem.salieii.9/" target="_blank">FACEBOOK</a></li>
          </ul>
        </div>
@@ -37,7 +37,6 @@
 
 
    <style scoped>
-   
    
    #navbar{
      margin-top: -1rem;
