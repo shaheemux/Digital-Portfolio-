@@ -22,7 +22,10 @@ export default {
   position: relative;
   bottom: 2rem;
   text-shadow: 1px 1px 4px;
+ }
 
+ img{
+  filter: contrast(65%) brightness(45%);
  }
 
 
