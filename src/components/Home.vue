@@ -1,6 +1,9 @@
 <template>
   <div id="Home">
-    <p class=" h-screen bg-white p-4 text-8xl text-black flex items-center p-11">SHAHEEM <br> SALIE</p>
+   <div class="">
+    <img src="../assets/Opera Snapshot_2024-07-17_152509_www.glamaglo.com.png" alt="">
+   </div>
+   <h1 class="text-6xl font-semi-bold text-center text-blue-600">Glama Glo</h1>
   </div>
 </template>
 
@@ -14,4 +17,13 @@ export default {
  #Home{
   margin-top: 5.5rem;
  }
+ 
+ .text-6xl{
+  position: relative;
+  bottom: 2rem;
+  text-shadow: 1px 1px 4px;
+
+ }
+
+
 </style>

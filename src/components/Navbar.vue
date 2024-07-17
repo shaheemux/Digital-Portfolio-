@@ -14,12 +14,8 @@
        <div id="nav-content" tabindex="0">
          <ul>
            <li><a href="#Home">Home</a></li>
-           <li><a href="#About">About</a></li>
-           <li><a href="#Reviews">Education & Experience</a></li>
-           <li><a href="#">Projects</a></li>
-           <li><a href="#">Reviews</a></li>
-           <li><a href="#">Contact</a></li>
-           <li class="small"><a href="https://www.instagram.com/shaaheem_salie/">INSTAGRAM</a><a href="https://www.facebook.com/shaheem.salieii.9/" target="_blank">FACEBOOK</a></li>
+           <li><a href="#About">Services</a></li>
+           <li class="small"><a href="">INSTAGRAM</a><a href="" target="_blank">FACEBOOK</a></li>
          </ul>
        </div>
      </div>
